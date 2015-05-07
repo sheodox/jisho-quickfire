@@ -1,6 +1,8 @@
 # Jisho-Quickfire
 
-This is a utility that runs on a NodeJS server for doing quick look-ups of multiple words in succession using Jisho.org.
+This is a utility that runs on a NodeJS server for doing quick look-ups of multiple words in succession using [Jisho.org](http://jisho.org).
+
+**[Here's a demonstration](http://imgur.com/a/XkNDo)**
 
 ## What's it for?
 
