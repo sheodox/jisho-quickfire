@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    #formFixture
+        img(src='http://jisho.org/assets/jisho-logo-v3@2x-2a7c019dff100a517c56f051d9197514.png')
+        form
+            input#lookup(type='text',autocomplete='off',autofocus)
+    #results
+
+    script(src = 'js/lookup.js')

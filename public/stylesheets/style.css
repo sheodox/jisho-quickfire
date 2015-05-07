@@ -1,0 +1,43 @@
+html {
+    width: 100%;
+}
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+    width: 1000px;
+    margin: 0 auto !important;
+}
+
+#formFixture {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+#formFixture img {
+    width: 150px;
+    margin-bottom: 1em;
+}
+
+#formFixture input {
+    font-size: 2em;
+}
+#formFixture input[type='text'] {
+    font-size: 2em;
+    margin-right: 1em;
+    border: 3px solid #CCC;
+    border-radius: 5px;
+    text-align: center;
+}
+#formFixture input[type='text']:focus {
+    outline: none;
+    box-shadow: 0 0 5px 5px rgba(0, 100, 170, 0.2);
+}
+
+#results > .jisho-result {
+    max-height: 300px;
+    overflow-y: auto;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 5px;
+    border-bottom: 1px solid #eee
+}
