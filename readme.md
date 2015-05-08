@@ -36,4 +36,4 @@ Open a terminal to the jisho-quickfire directory and run `sudo run.sh`
 
 ## Connecting to the server
 
-Navigate to `localhost` in your address bar (alternatively `localhost:3000` if you made the port change in app.js).
+Navigate to `localhost` in your browser (alternatively `localhost:3000` if you made the port change in app.js).
